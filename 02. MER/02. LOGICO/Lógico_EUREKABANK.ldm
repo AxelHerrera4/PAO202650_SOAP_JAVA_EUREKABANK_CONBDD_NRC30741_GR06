@@ -1021,7 +1021,7 @@ IndxPKName=%TABLE%_PK
 IndxAKName=%TABLE%_AK
 IndxFKName=%REFR%_FK
 IndxThreshold=</a:ModelOptionsText>
-<a:RepositoryFilename>C:\Users\USUARIO\Desktop\Lógico_EUREKABANK.ldm</a:RepositoryFilename>
+<a:RepositoryFilename>C:\Users\USUARIO\Desktop\logico\Lógico_EUREKABANK.ldm</a:RepositoryFilename>
 <c:GeneratedModels>
 <o:Shortcut Id="o3">
 <a:ObjectID>C4CCD2F3-9E48-470A-9610-9868CED3F3AB</a:ObjectID>

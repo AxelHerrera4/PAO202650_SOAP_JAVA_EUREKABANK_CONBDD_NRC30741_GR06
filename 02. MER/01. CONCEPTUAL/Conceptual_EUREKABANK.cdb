@@ -415,7 +415,7 @@ NameToCode=Yes
 CheckModel=Yes
 SaveLinks=Yes
 NameToCode=No</a:ModelOptionsText>
-<a:RepositoryFilename>C:\Users\USUARIO\Desktop\conceptual\Conceptual_EUREKABANK.cdm</a:RepositoryFilename>
+<a:RepositoryFilename>C:\Users\USUARIO\Desktop\Conceptual_EUREKABANK.cdm</a:RepositoryFilename>
 <c:GenerationOrigins>
 <o:Shortcut Id="o3">
 <a:ObjectID>0AC7D15A-87D7-486D-9DED-9042E68FD5C8</a:ObjectID>
@@ -1332,9 +1332,9 @@ DESTINATION 0 Arial,8,N</a:FontList>
 DISPNAME 0 Arial,8,N
 Attributes 0 Arial,8,N
 EntityPrimaryAttribute 0 Arial,8,U
+EntityForeignAttribute 0 Arial,8,N
 Identifiers 0 Arial,8,N
-LABL 0 Arial,8,N
-EntityForeignAttribute 0 Arial,8,N</a:FontList>
+LABL 0 Arial,8,N</a:FontList>
 <a:BrushStyle>6</a:BrushStyle>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:GradientEndColor>16777215</a:GradientEndColor>
@@ -1352,9 +1352,9 @@ EntityForeignAttribute 0 Arial,8,N</a:FontList>
 DISPNAME 0 Arial,8,N
 Attributes 0 Arial,8,N
 EntityPrimaryAttribute 0 Arial,8,U
+EntityForeignAttribute 0 Arial,8,N
 Identifiers 0 Arial,8,N
-LABL 0 Arial,8,N
-EntityForeignAttribute 0 Arial,8,N</a:FontList>
+LABL 0 Arial,8,N</a:FontList>
 <a:BrushStyle>6</a:BrushStyle>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:GradientEndColor>16777215</a:GradientEndColor>
@@ -1372,9 +1372,9 @@ EntityForeignAttribute 0 Arial,8,N</a:FontList>
 DISPNAME 0 Arial,8,N
 Attributes 0 Arial,8,N
 EntityPrimaryAttribute 0 Arial,8,U
+EntityForeignAttribute 0 Arial,8,N
 Identifiers 0 Arial,8,N
-LABL 0 Arial,8,N
-EntityForeignAttribute 0 Arial,8,N</a:FontList>
+LABL 0 Arial,8,N</a:FontList>
 <a:BrushStyle>6</a:BrushStyle>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:GradientEndColor>16777215</a:GradientEndColor>
@@ -1392,9 +1392,9 @@ EntityForeignAttribute 0 Arial,8,N</a:FontList>
 DISPNAME 0 Arial,8,N
 Attributes 0 Arial,8,N
 EntityPrimaryAttribute 0 Arial,8,U
+EntityForeignAttribute 0 Arial,8,N
 Identifiers 0 Arial,8,N
-LABL 0 Arial,8,N
-EntityForeignAttribute 0 Arial,8,N</a:FontList>
+LABL 0 Arial,8,N</a:FontList>
 <a:BrushStyle>6</a:BrushStyle>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:GradientEndColor>16777215</a:GradientEndColor>
@@ -1412,9 +1412,9 @@ EntityForeignAttribute 0 Arial,8,N</a:FontList>
 DISPNAME 0 Arial,8,N
 Attributes 0 Arial,8,N
 EntityPrimaryAttribute 0 Arial,8,U
+EntityForeignAttribute 0 Arial,8,N
 Identifiers 0 Arial,8,N
-LABL 0 Arial,8,N
-EntityForeignAttribute 0 Arial,8,N</a:FontList>
+LABL 0 Arial,8,N</a:FontList>
 <a:BrushStyle>6</a:BrushStyle>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:GradientEndColor>16777215</a:GradientEndColor>

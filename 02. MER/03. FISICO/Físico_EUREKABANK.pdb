@@ -3717,7 +3717,7 @@ PhysOpts=
 
 [ModelOptions\Default Opts\JIDX]
 PhysOpts=</a:ModelOptionsText>
-<a:RepositoryFilename>C:\Users\USUARIO\Desktop\fisico\Físico_EUREKABANK.pdm</a:RepositoryFilename>
+<a:RepositoryFilename>C:\Users\USUARIO\Desktop\Físico_EUREKABANK.pdm</a:RepositoryFilename>
 <c:GeneratedModels>
 <o:Shortcut Id="o3">
 <a:ObjectID>D8FCE8B0-4CE3-4AE9-BA49-A4196EF56B7F</a:ObjectID>
