@@ -45,7 +45,7 @@
                 </executions>
                 <configuration>
                     <wsdlUrls>
-                        <wsdlUrl>http://localhost:8080/ws_EUREKABANK_Java_Soap_GR6/EurekaBankWS?wsdl</wsdlUrl>
+                        <wsdlUrl>http://10.40.26.210:8080/ws_EUREKABANK_Java_Soap_GR6/EurekaBankWS?wsdl</wsdlUrl>
                     </wsdlUrls>
                     <packageName>com.eurekabank.ws.cliente</packageName>
                     <vmArgs>
